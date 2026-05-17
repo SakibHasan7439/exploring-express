@@ -3,6 +3,6 @@ export interface IUser {
     age: number,
     department: string,
     email: string,
-    password: number,
+    password: string,
     is_active: boolean
 }
