@@ -1,0 +1,121 @@
+Method ->GET | Time -1779161453302 | Url ->/users
+
+Method -> GET | Time -> 1779161522284 | Url ->/users/1
+
+Method -> GET | Time -> 1779161533969 | Url ->/users
+
+Method -> GET | Time -> 1779163174616 | Url ->/users/2
+
+Method -> GET | Time -> 1779163760566 | Url ->/users/2
+
+Method -> POST | Time -> 1779163942214 | Url ->/api/auth/login
+
+Method -> GET | Time -> 1779163977843 | Url ->/users
+
+Method -> GET | Time -> 1779163989441 | Url ->/users
+
+Method -> GET | Time -> 1779163990158 | Url ->/users
+
+Method -> GET | Time -> 1779164683768 | Url ->/users
+
+Method -> GET | Time -> 1779164798077 | Url ->/users
+
+Method -> GET | Time -> 1779164813463 | Url ->/users
+
+Method -> GET | Time -> 1779164959214 | Url ->/users
+
+Method -> GET | Time -> 1779164975097 | Url ->/users
+
+Method -> PUT | Time -> 1779165122217 | Url ->/users/3
+
+Method -> PUT | Time -> 1779165164093 | Url ->/users/3
+
+Method -> GET | Time -> 1779165175996 | Url ->/users
+
+Method -> PUT | Time -> 1779165675442 | Url ->/users/3
+
+Method -> POST | Time -> 1779165819689 | Url ->/users
+
+Method -> POST | Time -> 1779165834832 | Url ->/users
+
+Method -> POST | Time -> 1779165867052 | Url ->/api/auth/login
+
+Method -> GET | Time -> 1779165887552 | Url ->/users
+
+Method -> GET | Time -> 1779165971015 | Url ->/users
+
+Method -> GET | Time -> 1779165983696 | Url ->/users
+
+Method -> POST | Time -> 1779167588905 | Url ->/users
+
+Method -> POST | Time -> 1779167616466 | Url ->/users
+
+Method -> POST | Time -> 1779167784261 | Url ->/users
+
+Method -> POST | Time -> 1779167953703 | Url ->/users
+
+Method -> POST | Time -> 1779167981828 | Url ->/users
+
+Method -> GET | Time -> 1779168186260 | Url ->/users
+
+Method -> GET | Time -> 1779168195215 | Url ->/users
+
+Method -> POST | Time -> 1779168224550 | Url ->/api/auth/login
+
+Method -> GET | Time -> 1779168238445 | Url ->/users
+
+Method -> GET | Time -> 1779168353350 | Url ->/users
+
+Method -> POST | Time -> 1779168439630 | Url ->/api/auth/login
+
+Method -> GET | Time -> 1779168456490 | Url ->/users
+
+Method -> GET | Time -> 1779168670167 | Url ->/users
+
+Method -> POST | Time -> 1779168692228 | Url ->/api/auth/login
+
+Method -> GET | Time -> 1779168704104 | Url ->/users
+
+Method -> GET | Time -> 1779169027360 | Url ->/users
+
+Method -> GET | Time -> 1779169045384 | Url ->/users
+
+Method -> POST | Time -> 1779170156902 | Url ->/api/auth/login
+
+Method -> POST | Time -> 1779170440320 | Url ->/api/auth/login
+
+Method -> GET | Time -> 1779170525968 | Url ->/api/auth/refresh-token
+
+Method -> POST | Time -> 1779170551655 | Url ->/api/auth/refresh-token
+
+Method -> POST | Time -> 1779170578403 | Url ->/api/auth/refresh-token
+
+Method -> POST | Time -> 1779171416541 | Url ->/api/auth/refresh-token
+
+Method -> POST | Time -> 1779171504145 | Url ->/api/auth/refresh-token
+
+Method -> POST | Time -> 1779171563748 | Url ->/api/auth/refresh-token
+
+Method -> POST | Time -> 1779171608348 | Url ->/api/auth/login
+
+Method -> POST | Time -> 1779171643572 | Url ->/api/auth/login
+
+Method -> POST | Time -> 1779171653880 | Url ->/api/auth/login
+
+Method -> POST | Time -> 1779171711351 | Url ->/api/auth/refresh-token
+
+Method -> POST | Time -> 1779171749577 | Url ->/api/auth/refresh-token
+
+Method -> GET | Time -> 1779172180865 | Url ->/users
+
+Method -> GET | Time -> 1779172199420 | Url ->/users
+
+Method -> GET | Time -> 1779172208017 | Url ->/users
+
+Method -> GET | Time -> 1779172373484 | Url ->/users
+
+Method -> POST | Time -> 1779173014076 | Url ->/users
+
+Method -> GET | Time -> 1779173415034 | Url ->/users
+
+Method -> GET | Time -> 1779173425007 | Url ->/favicon.ico

@@ -4,5 +4,6 @@ export interface IUser {
     department: string,
     email: string,
     password: string,
-    is_active: boolean
+    is_active: boolean,
+    role: "admin" | "agent" | "user"
 }

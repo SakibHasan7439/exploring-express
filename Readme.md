@@ -33,3 +33,7 @@ policy based access control
 # JWT - (JSON WEB TOKEN)
 
 when user login to a website, a payload is sent from client to server, then server authenticate the user and with the payload data it creates a JWT token and send the token with response to the client
+
+# MIDDLEWARE
+1. Built in middleware,
+2. Custom middleware
