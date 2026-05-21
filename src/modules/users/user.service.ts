@@ -1,6 +1,6 @@
 import bcrypt from 'bcryptjs';
-import { pool } from "../../db";
-import type { IUser } from "./user.interface";
+import { pool } from "../../db/index.js";
+import type { IUser } from "./user.interface.js";
 
 const createUserIntoDB = async (payload: IUser) =>{
     const { name, age, department, email, password, role } = payload;

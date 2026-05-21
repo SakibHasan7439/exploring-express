@@ -1,4 +1,4 @@
-import { pool } from "../../db";
+import { pool } from "../../db/index.js";
 
 const createProfileIntoDB = async(payload:any) => {
     const {user_id, bio, address, phone, gender} = payload;

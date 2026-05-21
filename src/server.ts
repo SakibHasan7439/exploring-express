@@ -1,9 +1,7 @@
-import app from "./app"
-import config from "./config"
-import { initDB } from "./db";
+import app from "./app.js"
+import config from "./config/index.js"
 
 const main = () => {
-    initDB();
     const port = config.port
     app.listen(port, () => {
         console.log(`app listening on port ${port}`)
